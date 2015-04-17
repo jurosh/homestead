@@ -1,0 +1,13 @@
+{
+  "name": "jurosh/ticket",
+  "description": "This box contains somethin.",
+  "versions": [{
+    "version": "0.0.1",
+    "providers": [{
+      "name": "virtualbox",
+      "url": "https://atlas.hashicorp.com/jurosh/boxes/ticket/versions/0.0.1/providers/virtualbox.box",
+      "checksum_type": "sha1",
+      "checksum": "foo"
+    }]
+  }]
+}
